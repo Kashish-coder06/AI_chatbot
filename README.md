@@ -24,7 +24,7 @@ It can chat with you, remember context, and perform small tasks like telling the
 1. **Clone the repository**
 
 bash
-git clone https://github.com/yourusername/personal-ai-chatbot.git
+example : git clone https://github.com/yourusername/personal-ai-chatbot.git
 cd personal-ai-chatbot
 
 
